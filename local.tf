@@ -1,4 +1,4 @@
 resource "local_file" "pet" {
   filename = "/root/pet.txt"
-  content = "Hello terraform"
+  content = "Hello terraform this is amogh"
 }
